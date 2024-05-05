@@ -1,4 +1,4 @@
 select
     Claim_Amount_Identifier
 from 
-    dbt_cdw_benchmark__seed.expense_payment
+    ACME_INSURANCE__SEED.expense_payment
