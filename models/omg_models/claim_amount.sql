@@ -7,4 +7,4 @@ select
     Claim_Amount,
     Insurance_Type_Code
 from 
-    dbt_cdw_benchmark__seed.claim_amount
+    ACME_INSURANCE__SEED.claim_amount

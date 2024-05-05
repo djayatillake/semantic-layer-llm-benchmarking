@@ -1,3 +1,3 @@
 select
     Assessment_Result_Identifier
-from dbt_cdw_benchmark__seed.underwriting_assessment
+from ACME_INSURANCE__SEED.underwriting_assessment

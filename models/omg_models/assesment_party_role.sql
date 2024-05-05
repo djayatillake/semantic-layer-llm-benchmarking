@@ -4,4 +4,4 @@ select
     Party_Role_Code,
     Begin_Date,
     End_Date
-from dbt_cdw_benchmark__seed.assesment_party_role
+from ACME_INSURANCE__SEED.assesment_party_role
