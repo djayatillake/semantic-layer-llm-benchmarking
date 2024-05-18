@@ -1,7 +1,2 @@
-select
-    Party_Identifier,
-    Assessment_Identifier,
-    Party_Role_Code,
-    Begin_Date,
-    End_Date
-from ACME_INSURANCE__SEED.assesment_party_role
+select party_identifier, assessment_identifier, party_role_code, begin_date, end_date
+from acme_insurance__seed.assesment_party_role
